@@ -4,7 +4,7 @@ fenetre = tk.Tk()
 fenetre.title("heyooo")
 fenetre.geometry("700x400")
 
-def clic(e):
+def clic(event):
     if champ.get().isnumeric():
         uni.config(text=chr(int(champ.get())))
     else:

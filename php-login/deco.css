@@ -1,0 +1,30 @@
+body
+{
+	background-color: #debe66;
+}
+header
+{
+	background-color: black;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+h1
+{
+	text-align: center;
+	color: silver;
+}
+
+.deco
+{
+	color: white;
+	background: black;
+	display:block;
+	width:70px;
+	margin:auto;
+	text-decoration: none;
+	border-radius: 5px;
+	padding: 10px;
+	text-align: center;
+
+}
