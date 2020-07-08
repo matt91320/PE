@@ -114,7 +114,7 @@ Le 26 novembre 2019 Petit Voyou fait partie des 5 finalistes d'un concours, qu'i
 </footer>
 
 <div class="pub">
-	<i><a href="https://www.instagram.com/coding_saphir/?hl=fr" style="color: silver; text-decoration: none;">Création SAPHIR</a></i>
+	<i><a href="https://www.instagram.com/coding_saphir/?hl=fr" class="saphir">Création SAPHIR</a></i>
 </div>
 
 
