@@ -11,7 +11,7 @@ body
 {
 	color: silver; 
 	animation: 1.5s load;
-	position: absolute;
+	position: fixed;
 	top:-501%;left:50%; 
 	font-family: tom; 
 	font-size: 20px
@@ -174,8 +174,8 @@ header
 	border-top: solid ghostwhite;
 	z-index:99;
 	position: relative;
-	padding: 5%;
-
+	padding-bottom: 3%;
+	padding-top:2%;
 }
 
 section
