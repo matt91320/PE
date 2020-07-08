@@ -177,6 +177,10 @@ header
 	padding-bottom: 3%;
 	padding-top:2%;
 }
+.pres-PE
+{
+font-family: tom; text-align: justify; font-family: tom; font-weight: bold; font-size: 15px; color: white; background-color: #3e473a;padding: 6%; border-top: 4px solid silver; border-radius: 1.5px;
+}
 
 section
 {
@@ -470,6 +474,10 @@ footer
 		width: 95%;
 		display: block;
 		margin:auto;
+	}
+	.pres-PE
+	{
+		font-size: 30px;
 	}
 	.img-lil
 	{
