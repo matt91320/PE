@@ -46,26 +46,26 @@
 <div class="div-1">
 	<img src="https://zupimages.net/up/20/25/wnos.jpg" class="img-reg" />
 	<div class="right">
-		<p style="font-family: tom; display: block; margin-top: auto; margin-bottom: auto; font-size: 22px;"> 🌔 " C'est bien d'être doué mais c'est mieux d'être un doer " 🌖</p>
+		<p class="doue"> 🌔 " C'est bien d'être doué mais c'est mieux d'être un doer " 🌖</p>
 		<br>
 		<p style="color: #313632; font-family: tom; font-size: 18px; text-align: center;" id="artiste">📣<i> Morceaux disponibles sur toutes les plateformes </i>📣</p>
 		<br>
 
 		<div class="plateformes">
 			<section>
-				<a href="https://music.apple.com/us/artist/petit-voyou/1459929733" style="color: grey; text-decoration: none; font-family: tom;">Apple Music</a>
+				<a href="https://music.apple.com/us/artist/petit-voyou/1459929733" class="plat">Apple Music</a>
 					<br>
-				<a href="https://open.spotify.com/artist/5Yiut7B5Ec52AjszgCO3jY" style="color: grey; text-decoration: none; font-family: tom;">Spotify</a>
+				<a href="https://open.spotify.com/artist/5Yiut7B5Ec52AjszgCO3jY" class="plat">Spotify</a>
 					<br>
-				<a href="https://www.youtube.com/channel/UCtOIFqhJGOTZdT2raQc8VpQ" style="color: grey; text-decoration: none; font-family: tom;">Youtube</a>
+				<a href="https://www.youtube.com/channel/UCtOIFqhJGOTZdT2raQc8VpQ" class="plat">Youtube</a>
 					<br>
 			</section>
 			<section>
-				<a href="https://www.deezer.com/fr/artist/63681052" style="color: grey; text-decoration: none; font-family: tom;">Deezer</a>
+				<a href="https://www.deezer.com/fr/artist/63681052" class="plat">Deezer</a>
 					<br>
-				<a href="https://play.google.com/store/music/artist?id=A3oja7qusg7yfo3nnpfa2jaisnm" style="color: grey; text-decoration: none; font-family: tom;">Google play music</a>
+				<a href="https://play.google.com/store/music/artist?id=A3oja7qusg7yfo3nnpfa2jaisnm" class="plat">Google play music</a>
 					<br>
-				<a href="https://soundcloud.com/petitvoyoumusic" style="color: grey; text-decoration: none; font-family: tom;">Sound cloud</a>
+				<a href="https://soundcloud.com/petitvoyoumusic" class="plat">Sound cloud</a>
 					<br>
 			</section>
 		</div>

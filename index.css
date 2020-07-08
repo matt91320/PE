@@ -158,6 +158,15 @@ header
 	z-index:99;
 	padding: 7%;
 }
+.doue
+{
+font-family: tom; display: block; margin-top: auto; margin-bottom: auto; font-size: 22px;
+}
+.plat
+{
+	color: grey; text-decoration: none; font-family: tom;
+}
+
 .img-reg
 {
 	border: 3px solid black; 
@@ -447,6 +456,14 @@ footer
 		display: flex;
 		flex-direction: column;
 		width:85%;
+	}
+	.doue
+	{
+		font-size: 25px;
+	}
+	.plat
+	{
+		font-size: 20px;
 	}
 	.img-reg
 	{
