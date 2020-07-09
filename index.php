@@ -35,8 +35,8 @@
 	<br>
 
 	<div class="link">
-		<a href="https://www.youtube.com/watch?v=g6Ytpe2wv40" style="color: ghostwhite; text-decoration: none; background-color: #392c96; padding: 1.7%;font-family: arial; border-radius: 2px;">Fresstyle du concours</a>
-		<a href="https://www.youtube.com/watch?v=UQOoBeOoIDc" style="color: ghostwhite; text-decoration: none; background-color: #392c96; padding: 1.7%; font-family: arial; border-radius: 2px;">Règlement Mif Freestyle</a>
+		<a href="https://www.youtube.com/watch?v=g6Ytpe2wv40" class="free">Fresstyle du concours</a>
+		<a href="https://www.youtube.com/watch?v=UQOoBeOoIDc" class="free">Règlement Mif Freestyle</a>
 	</div>
 </div>
 
@@ -48,7 +48,7 @@
 	<div class="right">
 		<p class="doue"> 🌔 " C'est bien d'être doué mais c'est mieux d'être un doer " 🌖</p>
 		<br>
-		<p style="color: #313632; font-family: tom; font-size: 18px; text-align: center;" id="artiste">📣<i> Morceaux disponibles sur toutes les plateformes </i>📣</p>
+		<p class="dispo" id="artiste">📣<i> Morceaux disponibles sur toutes les plateformes </i>📣</p>
 		<br>
 
 		<div class="plateformes">

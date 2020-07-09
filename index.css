@@ -140,6 +140,15 @@ header
 	width: 60%; 
 	font-size: 18px;
 }
+.free
+{
+	color: ghostwhite; 
+	text-decoration: none; 
+	background-color: #392c96; 
+	padding: 1.7%;
+	font-family: arial; 
+	border-radius: 2px;
+}
 .link
 {
 	text-align: center; 
@@ -166,7 +175,10 @@ font-family: tom; display: block; margin-top: auto; margin-bottom: auto; font-si
 {
 	color: grey; text-decoration: none; font-family: tom;
 }
-
+.dispo
+{
+	color: #313632; font-family: tom; font-size: 18px; text-align: center;
+}
 .img-reg
 {
 	border: 3px solid black; 
@@ -444,17 +456,25 @@ footer
 		width: 90%;
 		margin-left: 5%;
 	}
+	.text-2
+	{
+		font-size: 30px;
+	}
 	.link-freestyle
 	{
 		width: 100%;
-		font-size: 20px;
+		font-size: 30px;
 	}
 	.link
 	{
-		width: 60%;
+		width: 95%;
 		display: flex;
 		justify-content: space-around;
-		margin-left: 20%;
+		margin:auto;
+	}
+	.free
+	{
+		font-size: 30px;
 	}
 	.div-1
 	{
@@ -464,11 +484,15 @@ footer
 	}
 	.doue
 	{
-		font-size: 25px;
+		font-size: 40px;
+	}
+	.dispo
+	{
+		color: #313632; font-family: tom; font-size: 32px; text-align: center;
 	}
 	.plat
 	{
-		font-size: 20px;
+		font-size: 37px;
 	}
 	.img-reg
 	{
@@ -515,18 +539,23 @@ footer
 		display: flex;
 		flex-direction: column;
 	}
+	.h1-footer
+	{
+		font-size: 80px;
+	}
 	.petit-voyou-link
 	{
 		text-align: center;
+		font-size: 50px;
 	}
 	.reseaux
 	{
-		width: 80%;
-		margin-left: 10%;
+		width: 90%;
+		margin-left: 5%;
 	}
 	.res
 	{
-		width: 60px;
+		width: 100px;
 		height: auto;
 	}
 	.saphir
