@@ -127,6 +127,8 @@ header
 	margin-left:auto;
 	margin-right: auto;
 	margin-top: 3%;
+	background-color: #392c96;
+	padding: 4%;
 
 }
 .link-freestyle
@@ -135,7 +137,8 @@ header
 	text-align: center; 
 	font-family: arial; 
 	text-decoration: underline silver;
-	display: block;margin-right: auto; 
+	display: block;
+	margin-right: auto; 
 	margin-left: auto; 
 	width: 60%; 
 	font-size: 18px;
@@ -464,6 +467,7 @@ footer
 	.text-2
 	{
 		font-size: 30px;
+		text-align: justify;
 	}
 	.link-freestyle
 	{
