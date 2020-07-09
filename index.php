@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title>Petit-Voyou</title>
+		<title>Petit Voyou Music</title>
 		<link rel="stylesheet" href="index.css"/>
 		<link rel="icon" href="src/img/logo.png" />
 	</head>
