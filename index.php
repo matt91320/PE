@@ -81,7 +81,7 @@
 
 	<div class="presentation">
 
-	<h1 style="color: silver; font-family: tom;">Qui est Petit-Voyou ?</h1>
+	<h1 class="who">Qui est Petit-Voyou ?</h1>
 
 		<p class="pres-PE">Petit Voyou aussi appelé P.E, de son vrai nom Pierre-Eric Garcia est un rappeur/ beatmaker originaire de Toulouse, en Haute Garonne, a vécu une enfance où il a subit des moqueries liées à ses rondeurs, c’est plus tard qu’il décidera de changer. C’est en 2013 qu’il forme un groupe « IDRO » avec 2 amis à lui qui se font appeler: Asod, Speed Death et lui même, M-Rone. Il changera 2ans après de nom pour se faire appeler Dr. One. Il déménage à Paris fin 2017/ début 2018 et se lance avec ambition dans ses deux passions : la musique et la conception de logiciels informatiques, appris tous deux sur le web.
 C’est le 10 avril 2019 qu’il poste sur ses réseaux sociaux son premier son de sa nouvelle carrière « PIB » sous le pseudo « Petit Voyou ». Il a longuement hésité avec le nom « Lil Voyou » mais a préféré choisir Petit Voyou qui est le surnom que sa mère lui donnait pour ne pas « égarer » son identité.

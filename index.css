@@ -198,6 +198,10 @@ font-family: tom; display: block; margin-top: auto; margin-bottom: auto; font-si
 	padding-bottom: 3%;
 	padding-top:2%;
 }
+.who
+{
+	color: silver; font-family: tom;
+}
 .pres-PE
 {
 font-family: tom; text-align: justify; font-family: tom; font-weight: bold; font-size: 15px; color: white; background-color: #3e473a;padding: 6%; border-top: 4px solid silver; border-radius: 1.5px;
@@ -524,6 +528,10 @@ footer
 	.pres-PE
 	{
 		font-size: 40px;
+	}
+	.who
+	{
+		font-size: 45px;
 	}
 	.img-lil
 	{
