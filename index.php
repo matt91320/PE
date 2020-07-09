@@ -28,7 +28,7 @@
 
 <div class="reglement">
 	<p class="text">Gagnant du concours du Règlement.</p>
-	<p class="text-2">Petit Voyou s'impose d'autant plus dans le RAP en remportant ce concours dans lequel des jeunes rapeurs s'affrontent<br> autour d'un fresstyle. Pour fêter cela, Petit Voyou sort un freestyle s'intitulant "Règlement Mif Fresstyle" disponible sur toutes les plateformes de streaming.</p>
+	<p class="text-2">Petit Voyou s'impose d'autant plus dans le RAP en remportant ce concours dans lequel des jeunes rapeurs s'affrontent autour d'un fresstyle. Pour fêter cela, Petit Voyou sort un freestyle s'intitulant "Règlement Mif Fresstyle" disponible sur toutes les plateformes de streaming.</p>
 
 	<p class="link-freestyle" id="sons">Liens ci-dessous pour visionner les différents freestyle :</p>
 
