@@ -200,7 +200,8 @@ font-family: tom; display: block; margin-top: auto; margin-bottom: auto; font-si
 }
 .who
 {
-	color: red; 
+	color: silver;
+	font-family: tom; 
 }
 .pres-PE
 {
