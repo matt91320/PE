@@ -17,7 +17,7 @@
 
 	<div class="tools">
 		<div style="width:35%;">
-			<a href="index.html"><img src="https://zupimages.net/up/20/25/f2qt.png" class="home"/></a>
+			<a href="index.php"><img src="https://zupimages.net/up/20/25/f2qt.png" class="home"/></a>
 		</div>
 		<a href="#sons" class="menu">Les sons</a>
 		<a href="#artiste" class="menu2">L'artiste</a>
