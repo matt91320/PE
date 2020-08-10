@@ -13,7 +13,7 @@
 
 
 <header>
-	<a href="index.html" class="h1"><h1 class="h1-header">Petit Voyou</h1></a>
+	<a href="index.php" class="h1"><h1 class="h1-header">Petit Voyou</h1></a>
 
 	<div class="tools">
 		<div style="width:35%;">
