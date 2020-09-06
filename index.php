@@ -25,7 +25,16 @@
 
 </header>
 
-
+<div class="last-song">
+	<img src="src/img/last.jpg" class="last-song-img" />
+	<div class="text-last-song">
+		<h2 class="titre-last-song">IMMORTEL</h2>
+		<div class="link-last-song">
+			<p class="text-last">Nouveau son disponible sur toutes les plateformes</p>
+			<a href="" id="link-song">Voir le morceau sur youtube</a>
+		</div>
+	</div>
+</div>
 
 <div class="reglement">
 	<p class="text">Gagnant du concours du Règlement.</p>

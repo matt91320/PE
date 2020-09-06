@@ -103,6 +103,43 @@ header
 }
 
 
+.last-song
+{
+	animation: 2s debut;
+	display: flex;
+	justify-content: flex-start;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.last-song-img
+{
+	width: 350px;
+	height: auto;
+	border-radius: 5px;
+	border: 2px solid #4e3db8;
+	padding: 3px;
+	margin-right: 100px;
+	margin-left: 250px;
+}
+.text-last-song
+{
+	display: block;
+	margin-top: auto;
+	margin-bottom: auto;
+	font-family: tom;
+}
+#link-song
+{
+	color:#4e3db8;
+	text-decoration: none;
+}
+.text-last
+{
+	color: grey;
+}
+
+
+
 .reglement
 {
 	background-color: #4e3db8;
@@ -464,6 +501,32 @@ footer
 		width: 50px;
 		height:auto;
 	}
+	.last-song
+	{
+		flex-direction: column-reverse;
+	}
+	.text-last-song{
+		text-align: center;
+	}
+	.titre-last-song
+	{
+		font-size: 45px;
+		margin-bottom: 0px;
+	}
+	.text-last{
+		font-size: 30px;
+		margin-top: 5px;
+	}
+	#link-song
+	{
+		font-size: 35px;
+	}
+	.last-song-img
+	{
+		display: block;
+		margin:auto;
+		margin-top: 50px;
+	}
 	.reglement
 	{
 		padding: 3%;
@@ -584,5 +647,17 @@ footer
 	.saphir
 	{
 		font-size: 35px;
+	}
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1300px)
+{
+	.last-song{
+		display: flex;
+		justify-content: center;
+	}
+	.last-song-img
+	{
+		margin-left: 0px;
 	}
 }
