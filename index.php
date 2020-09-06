@@ -31,7 +31,7 @@
 		<h2 class="titre-last-song">IMMORTEL</h2>
 		<div class="link-last-song">
 			<p class="text-last">Nouveau son disponible sur toutes les plateformes</p>
-			<a href="https://www.youtube.com/watch?v=c1C73uSCVVc" id="link-song">Voir le morceau sur youtube</a>
+			<a href="https://www.youtube.com/watch?v=c1C73uSCVVc" id="link-song" target="_blank">Voir le morceau sur youtube</a>
 		</div>
 	</div>
 </div>
