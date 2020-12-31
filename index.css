@@ -231,7 +231,7 @@ font-family: tom; display: block; margin-top: auto; margin-bottom: auto; font-si
 	display: flex;
 	justify-content: space-around;
 	animation: 2s debut;
-	background-color: #4e3db8;
+	background-color: #333;
 	border-top: solid ghostwhite;
 	z-index:99;
 	position: relative;
@@ -240,21 +240,21 @@ font-family: tom; display: block; margin-top: auto; margin-bottom: auto; font-si
 }
 .who
 {
-	color: silver;
+	color: #ffc640;
 	font-family: tom; 
 }
 .pres-PE
 {
-font-family: tom; 
-text-align: justify; 
-font-family: tom; 
-font-weight: bold; 
-font-size: 20px; 
-color: white; 
-background-color: #392c96;
-padding: 6%; 
-border-top: 4px solid silver;
- border-radius: 1.5px;
+	font-family: tom; 
+	text-align: justify; 
+	font-family: tom; 
+	font-weight: bold; 
+	font-size: 20px; 
+	color: white; 
+	background-color: #3d3d3d;
+	padding: 6%; 
+	border-top: 4px solid silver;
+	border-radius: 1.5px;
 }
 
 section
